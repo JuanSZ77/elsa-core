@@ -4,16 +4,6 @@ export const resources = {
       'Title': 'Workflow Instances'
     }
   },
-  'es-ES': {
-    default: {
-      'Title': 'Instancias del flujo'
-    }
-  },
-  'pt-PT': {
-    default: {
-      'Title': 'Instâncias de fluxo'
-    }
-  },
   'zh-CN': {
     default: {
       'Title': '工作流实例'
